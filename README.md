@@ -34,6 +34,26 @@ In this project of analyzing play store applications, we have worked on several 
 In the initial phase, we focused more on the problem statements and data cleaning, in order to ensure that we give them the best results out of our analysis.
 
 
+
+## Play Store Dataset: Key Columns
+
+The play_store dataframe is the bedrock of our analysis, comprising 10841 rows and 13 pivotal columns:
+
+1. App: Name of the application.
+2. Category: The category to which an application belongs.
+3. Rating: User ratings for the application.
+4. Reviews: Total number of user reviews for the application.
+5. Size: The size occupied by the application on mobile phones.
+6. Installs: Total number of installs/downloads for an application.
+7. Type: Specifies whether the application is free or paid.
+8. Price: The price of the application.
+9. Content Rating: Target audience for the application.
+10. Genres: Various other categories to which an application can belong.
+11. Last Updated: Date when the application was last updated.
+12. Current Ver: Current version of the application.
+13. Android Ver: Android version supporting the application.
+
+
 # conclusion 
 MNC needs to focus more on:
 
